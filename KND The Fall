@@ -1,0 +1,185 @@
+{
+   "title":"KND: The Fall",
+   "description":"",
+   "artist":"Accel Art",
+   "author":"Accel Art",
+   "cover":"https://i.imgur.com/5y74kQx.jpeg",
+   "chapters":{
+      "1":{
+         "title":"KND: The Fall",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/saJC1PS/"
+         },
+         "last_updated":"1632268800"
+      },
+      "2":{
+         "title":"Consejos y juicios",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/SofkI3H/"
+         },
+         "last_updated":"1632268800"
+      },
+      "3":{
+         "title":"Nostalgia y cenizas",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/fv4sJAm/"
+         },
+         "last_updated":"1632268800"
+      },
+      "4":{
+         "title":"Humo y sangre",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/rn0QHqd/"
+         },
+         "last_updated":"1632268800"
+      },
+      "5":{
+         "title":"Vida y rencores",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/vGRLDMv/"
+         },
+         "last_updated":"1632268800"
+      },
+      "6":{
+         "title":"Caidas y escombros",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/1oH3f3O/"
+         },
+         "last_updated":"1632268800"
+      },
+      "7":{
+         "title":"Familia",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/yvjo9p7/"
+         },
+         "last_updated":"1632268800"
+      },
+      "8":{
+         "title":"Encuentros y enigmas",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/aGiZLkm/"
+         },
+         "last_updated":"1632268800"
+      },
+      "9":{
+         "title":"Pasión y tensiones",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/vMCfcSX/"
+         },
+         "last_updated":"1632268800"
+      },
+      "10":{
+         "title":"Culpas y revelaciones",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/FIpPipL/"
+         },
+         "last_updated":"1632268800"
+      },
+      "11":{
+         "title":"Sincronia y legados",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/4tJVltQ/"
+         },
+         "last_updated":"1632268800"
+      },
+      "12":{
+         "title":"Secuelas y lejania",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/FSea7ba/"
+         },
+         "last_updated":"1632268800"
+      },
+      "13":{
+         "title":"La verdad y el consuelo",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/aW3VxVX/"
+         },
+         "last_updated":"1632268800"
+      },
+      "14":{
+         "title":"La herencia y la culpa",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/ePWKWrC/"
+         },
+         "last_updated":"1632268800"
+      },
+      "15":{
+         "title":"El prefacio y el requiem",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/5L4iv7I/"
+         },
+         "last_updated":"1632268800"
+      },
+      "16":{
+         "title":"El renacer y el reconcilio",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/c9CrdRQ/"
+         },
+         "last_updated":"1632268800"
+      },
+      "17":{
+         "title":"Duelos y caballeros",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/ubwolTg/"
+         },
+         "last_updated":"1632268800"
+      },
+      "18":{
+         "title":"Fuejo y nieve",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/onbWBRE/"
+         },
+         "last_updated":"1632268800"
+      },
+      "19":{
+         "title":"La maldición y el sacrificio",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/iGXaBsv/"
+         },
+         "last_updated":"1632268800"
+      },
+      "20":{
+         "title":"Amanecer",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/R9Vrbm6/"
+         },
+         "last_updated":"1632268800"
+      },
+      "21":{
+         "title":"El juicio y la paz",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/nc6yXkf/"
+         },
+         "last_updated":"1632268800"
+      },
+      "22":{
+         "title":"Crezcamos juntos",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/wzwR17D/"
+         },
+         "last_updated":"1632268800"
+      }
+   }
+}
